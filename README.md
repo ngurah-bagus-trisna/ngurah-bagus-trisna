@@ -4,7 +4,7 @@ I work as a Junior Cloud Engginer, where I am responsible for the daily administ
 
 ## My Skills
 
-I have experience in cloud computing, Kubernetes administration, Linux administration, Docker, basic OpenStack knowledge, networking, monitoring using Grafana, Prometheus, Loki, Blackbox, troubleshooting, management of KVM (Kernel-Based Virtual Machine), and continuous learning and skill development.
+I have experience in cloud computing, Kubernetes administration, Linux administration, Docker, basic OpenStack knowledge, networking, monitoring using Grafana, Prometheus, Loki, Blackbox, troubleshooting, management of KVM (Kernel-Based Virtual Machine), continuous learning and skill development.
 
 ## Get in Touch
 If you have any questions or just want to chat about technology, feel free to reach out to me at [instagram](https://www.instagram.com/ngurah_bagus_trisna/). You can also find me on [LinkedIn](https://www.linkedin.com/in/ngurah-bagus-trisna/). Thanks for visiting my GitHub profile!
