@@ -1,6 +1,6 @@
 # Hi, I'm Bagus! 👋
 
-I work as a Junior Cloud Engginer, where I am responsible for the daily administration of Kubernetes infrastructure. My key responsibilities include ensuring system security, scalability, and availability, managing and monitoring cloud-based systems, researching and skill development to stay up to date with new technologies.
+I work as a Senior Cloud Engginer, where I am responsible for the daily administration of Linux, Kubernetes Administration. My key responsibilities include ensuring system security, scalability, and availability, managing and monitoring cloud-based systems, researching and skill development to stay up to date with new technologies.
 
 ## My Skills
 
